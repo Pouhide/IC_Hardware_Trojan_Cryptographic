@@ -22,6 +22,15 @@ was synthesized using AMD Vivado 2025.2.
 | F7 Muxes | 126 |
 | F8 Muxes | 47 |
 
+### Main Area Metrics
+
+| Metric | Value |
+|---|---:|
+| LUTs | 1551 |
+| Flip-Flops / Registers | 1531 |
+| BRAM | 0 |
+| DSP | 0 |
+
 ### Power Estimation
 
 | Metric | Power |
